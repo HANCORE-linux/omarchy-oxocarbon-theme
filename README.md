@@ -15,6 +15,9 @@ omarchy-theme-install https://github.com/HANCORE-linux/omarchy-oxocarbon-theme.g
 ## Neovim & VSCode 
 - both using Oxocarbon Theme by [https://github.com/nyoom-engineering](https://github.com/nyoom-engineering/oxocarbon.nvim)
 
+## Steam, GTK, Vesktop Support etc..
+- all yes! - thanks [imbypass](https://github.com/imbypass/omarchy-hook-theme-set-ex/tree/main) for his hook script!
+
 ## Waybar-Theme
 - check my Waybar-Themes [Link](https://github.com/HANCORE-linux/waybar-themes)
 
