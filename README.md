@@ -11,12 +11,12 @@ To install this theme, simply use the omarchy-theme-install command:
 omarchy-theme-install https://github.com/HANCORE-linux/omarchy-oxocarbon-theme.git
 ```
 
-## Vesktop (Discord) , Superfile,  VSCode, ZED, Spotify , GTK Support etc..
-- all yes! - thanks [imbypass](https://github.com/imbypass/omarchy-hook-theme-set-ex/tree/main) for his hook script!
-- VSCode: click on manage (left down corner) > Themes > Color Theme > search for Omarchy
+## Neovim & VSCode 
+- Neovim [source](https://github.com/nyoom-engineering/oxocarbon.nvim)
+- VSCode [source](https://marketplace.visualstudio.com/items?itemName=NyoomEngineering.oxocarbon-vscode)
 
 ## Waybar-Theme
-- in Screenshot im using Waybar config V6.e - check my Waybar-Themes [Link](https://github.com/HANCORE-linux/waybar-themes)
+- check my Waybar-Themes [Link](https://github.com/HANCORE-linux/waybar-themes)
 
 ## Acknowledgments
 - This theme was created using [Omarchist](https://github.com/tahayvr/omarchist) by [Taha](https://github.com/tahayvr). <br>
