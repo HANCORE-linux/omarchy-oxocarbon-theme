@@ -28,7 +28,7 @@ theme[inactive_fg]="#232323"
 theme[proc_misc]="#ee5396"
 
 # Cpu box outline color
-theme[cpu_box]="#33b1ff"
+theme[cpu_box]="#ff7eb6"
 
 # Memory/disks box outline color
 theme[mem_box]="#ff7eb6"
