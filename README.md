@@ -24,6 +24,10 @@ omarchy-theme-install https://github.com/HANCORE-linux/omarchy-oxocarbon-theme.g
 
 ## Waybar-Theme
 - check my Waybar-Themes [Link](https://github.com/HANCORE-linux/waybar-themes)
+- also check Oxocarbon Waybar-Themes V2.1a & V2.1b
+<img width="2560" height="528" alt="screenshot-2026-01-08_19-34-26" src="https://github.com/user-attachments/assets/c293cfbb-758a-4d5a-9571-033b11e376aa" />
+<img width="2560" height="521" alt="screenshot-2026-01-08_21-51-52" src="https://github.com/user-attachments/assets/94f2c902-8bab-4b21-9ad6-2c3beda06b91" />
+
 
 ## Acknowledgments
 - This theme was created using [Omarchist](https://github.com/tahayvr/omarchist) by [Taha](https://github.com/tahayvr). <br>
