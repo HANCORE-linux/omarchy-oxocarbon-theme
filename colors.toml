@@ -2,7 +2,7 @@ accent = "#42be65"
 cursor = "#f2f4f8"
 foreground = "#f2f4f8"
 background = "#161616"
-selection_foreground = "CellForeground"
+selection_foreground = "#E1E1E6"
 selection_background = "#41414D"
 
 color0 = "#161616"
