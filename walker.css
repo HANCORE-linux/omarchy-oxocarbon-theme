@@ -46,7 +46,7 @@ window .box-wrapper {
 
 window .search-container {
     border: 1.5px solid alpha(#ee5396, 0.25);    /* visible border */
-    border-radius: 6px;
+    border-radius: 4px;
     padding: 4px 6px;
     margin: 0;
     background: alpha(@base, 0.8);            /* slightly transparent */
