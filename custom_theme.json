@@ -259,9 +259,9 @@
     "neovim": {
       "lazy": false,
       "priority": 1000,
-      "raw_config": "return {\n  \"nyoom-engineering/oxocarbon.nvim\",\n  config = function()\n    vim.opt.background = \"dark\" -- or \"light\"\n    vim.cmd.colorscheme \"oxocarbon\"\n  end,\n}",
-      "theme_name": "matteblack",
-      "theme_repo": "tahayvr/matteblack.nvim"
+      "raw_config": "return {\n  {\n    \"nyoom-engineering/oxocarbon.nvim\",\n    lazy = false,\n    priority = 1000,\n  },\n  {\n    \"LazyVim/LazyVim\",\n    opts = {\n      colorscheme = \"oxocarbon\",\n    },\n  },\n}",
+      "theme_name": "oxocarbon",
+      "theme_repo": "nyoom-engineering/oxocarbon.nvim"
     },
     "swayosd": {
       "background_color": "#121212",
