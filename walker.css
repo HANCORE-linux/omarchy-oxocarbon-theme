@@ -54,4 +54,6 @@ window .search-container {
     backdrop-filter: blur(1px);
 }
 
-
+child:selected .item-box {
+background-color: @base;
+}
