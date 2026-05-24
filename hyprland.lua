@@ -11,6 +11,20 @@ hl.config({
     gaps_in = 5,
     gaps_out = 5,
   },
+  group = {
+    col = {
+      border_active = "rgba(8A8A8Dee)",
+      border_inactive = "rgb(363636)",
+    },
+    groupbar = {
+      col = {
+        active = "rgba(8A8A8D99)",
+        inactive = "rgba(36363688)",
+      },
+      text_color = "rgb(f2f4f8)",
+      text_color_inactive = "rgba(be95ffee)",
+    },
+  },
   decoration = {
     rounding = 4,
     rounding_power = 3,
